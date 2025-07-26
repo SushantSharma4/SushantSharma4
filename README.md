@@ -40,7 +40,7 @@
 ## 🤝 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sushant-b-sharma-9864622ab/)  
-📧 sushant.your.email@example.com *(replace with real email)*  
+📧 sushantbsharma84@gmail.com 
 🐍 [GitHub Projects](https://github.com/SushantSharma4)
 
 ---
