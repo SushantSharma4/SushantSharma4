@@ -20,7 +20,7 @@
 - 🔒 **Log Parser Tool** (WIP)  
   Automates system log review for basic IT audit reporting
 
-  🎵 MP3 Player App (Python + Tkinter)
+- 🎵 MP3 Player App (Python + Tkinter)
   A simple desktop-based music player using pygame.mixer and Tkinter GUI
 
 ---
