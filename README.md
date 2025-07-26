@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi there, I'm Sushant Sharma
 
-<!--
-**SushantSharma4/SushantSharma4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Aspiring **Python Developer** | Passionate about **Web Development** and **IT Audits**  
+🎯 Currently working at **AuthBridge** as an Operations Associate  
+🌱 Exploring the intersection of **software engineering** and **security/compliance**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- ✅ **To-Do List App** (Python + Flask)  
+  Full-stack CRUD app with Bootstrap UI and session handling
+
+- 🌤 **Weather Dashboard** (Python + API)  
+  Real-time weather updates using OpenWeatherMap API
+
+- 📝 **Blog CMS** (Django + SQLite)  
+  Post-auth system with user registration, login, and content creation
+
+- 🔒 **Log Parser Tool** (WIP)  
+  Automates system log review for basic IT audit reporting
+
+---
+
+## 🛠 Tech Stack & Tools
+
+`Python` `Flask` `Django` `HTML/CSS` `Bootstrap`  
+`SQLite` `Git` `VS Code` `Linux Basics`
+
+---
+
+## 📚 Currently Learning
+
+- Flask Login & Authentication
+- Log auditing with Python scripts
+- JavaScript for UI enhancements
+
+---
+
+## 🤝 Let's Connect
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sushant-b-sharma-9864622ab/)  
+📧 sushant.your.email@example.com *(replace with real email)*  
+🐍 [GitHub Projects](https://github.com/SushantSharma4)
+
+---
+
+> 💡 *Open to roles in Python backend, web development, and entry-level IT audit + automation roles.*
