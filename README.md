@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sushant Sharma
+# 👋 Hi there, I'm Sushant B Sharma
 
 🔍 Aspiring **Python Developer** | Passionate about **Web Development** and **IT Audits**  
 🎯 Currently working at **AuthBridge** as an Operations Associate  
