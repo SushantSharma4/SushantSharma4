@@ -1,69 +1,57 @@
+# Hi, I'm Sushant B Sharma 👋
 
-# 👋 Hi there, I'm Sushant B Sharma
+B.Tech Computer Science graduate (2025) with 7 months at AuthBridge working on operations and data validation. I'm transitioning into tech and actively building my skills in programming, data, and automation.
 
-🔍 **Aspiring Python Developer** | Passionate about **Web Development** & **IT Audits**  
-💼 Currently working at **AuthBridge** as an **Operations Associate**  
-🌱 Exploring the intersection of software engineering & compliance  
+## About Me
+- 🎓 B.Tech in Computer Science (2025)
+- 💼 7 months at AuthBridge (Operations Associate)
+- 📍 New Delhi, India
+- 🌱 Learning and building with Python, SQL, Pandas, NumPy, Advanced Excel, Power BI, and working with LLMs
+- 🚀 Looking for opportunities to move into technical work
 
----
+## Tech Stack
+- **Programming & Data:** Python, SQL, Pandas, NumPy
+- **Analytics & BI:** Advanced Excel, Power BI
+- **Web & App Development:** Flask, Tkinter, HTML, CSS, Bootstrap
+- **Databases & Tools:** PostgreSQL, SQLite, Git, GitHub, VS Code
+- **AI & Automation:** Generative AI, LLM basics, prompt engineering, workflow automation
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### ✅ [Flask To-Do App](https://github.com/SushantSharma4/flask-todo-app)  
-A minimal, full-stack to-do list application using **Flask** and **Bootstrap**  
-- ✔️ Add, delete, and manage tasks  
-- 💾 Session management  
-- 🎨 Clean and responsive interface  
+### Flask To-Do App
+A simple full-stack task management app using Flask and Bootstrap.
+- Add, delete, and manage tasks
+- Clean and responsive UI
+- Built to practice CRUD and backend fundamentals
 
----
+### MP3 Player GUI
+Desktop music player built with Tkinter and pygame.mixer.
+- Play, pause, resume, and stop audio
+- Browse and load MP3 files
+- Custom UI with media controls
 
-### 🎵 [MP3 Player GUI](https://github.com/SushantSharma4/mp3-player-gui-python)  
-Desktop-based music player using **Tkinter** and **pygame.mixer**  
-- 🎼 Supports Play, Pause, Resume, Stop  
-- 📁 File Browser to select MP3s  
-- 🖼️ Custom UI with images  
+### Internal Controls Checklist
+Static HTML page for internal control and audit support.
+- Covers access control, change management, documentation checkpoints
+- Useful for compliance review and checklist-based validation
 
----
+### Python Mini Projects
+Small projects focused on Python fundamentals and building logic.
+- Calculator GUI
+- Weather App using API
+- Text utility tools
 
-### 🛡️ [Internal Controls Checklist](https://github.com/SushantSharma4/internal-controls-checklist)  
-A static HTML page with categorized internal control checkpoints for basic IT Audit support  
-- 🔍 Useful for audit documentation and compliance validation  
-- 📝 Covers Access Control, Change Management, and more  
+## What I'm Working On Now
+- Practicing Python and SQL daily (LeetCode, PostgreSQL)
+- Building practical projects and data-driven applications
+- Learning how to use LLMs and GenAI for automation
+- Exploring automation workflows and prompt engineering
 
----
-
-### 💡 [Codesoft Projects](https://github.com/SushantSharma4/Codesoft)  
-Mini Python projects from the CodeSoft internship  
-- 🔢 Calculator GUI  
-- 🌤️ Weather App with API  
-- 📋 Text utilities  
-- 👨‍💻 Focused on Python fundamentals  
-
----
-
-### 📁 [SushantSharma4](https://github.com/SushantSharma4/SushantSharma4)  
-This repo holds my GitHub **Profile README** — you're looking at it! 👀  
-- ✨ Updated portfolio and tech stack  
-- 🧰 Constantly evolving  
-
----
-
-## 🛠 Tech Stack  
-**Languages**: Python, HTML/CSS, JavaScript (basic)  
-**Frameworks**: Flask, Tkinter  
-**Tools**: Git, GitHub, Bootstrap, SQLite  
-**Systems**: Linux basics, VS Code  
+## Connect
+- 📧 Email: sushantbsharma84@gmail.com
+- 🔗 LinkedIn: linkedin.com/in/sushant-b-sharma-9864622ab
+- 📂 GitHub: github.com/SushantSharma4
 
 ---
 
-## 📚 Currently Exploring  
-- 🔐 Flask Login/Auth  
-- 📊 Python for IT Auditing  
-- ✨ JavaScript for dynamic UIs  
-
----
-
-## 🤝 Let’s Connect  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sushant-b-sharma)  
-- 📧 sushantbsharma@gmail.com  
-- 🐍 [GitHub](https://github.com/SushantSharma4)
+🚀 Still learning, still building, and taking the next step into tech.
